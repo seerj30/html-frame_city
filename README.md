@@ -1,0 +1,1 @@
+Deschideti pagina "principa.html"
